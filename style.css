@@ -1,0 +1,24 @@
+/**{
+	margin: 0;
+	padding: 0;
+}*/
+a{
+	text-decoration: none;
+	font-size: 24px;
+}
+a:hover{
+	color: darkgrey;
+
+}
+ul{
+	text-align: center;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+
+
+
+}
